@@ -1,35 +1,94 @@
-# 💡 Street Light Installation – Kilimanjaro
+# 💡 Solar Street Light Installation – Kilimanjaro
 
-## 📍 Location
+## 📍 Project Location
 
-Moshi • Hai • Mwanga • Same • Himo • Tarakea • Hedaru • Marangu
+Region: Kilimanjaro, Tanzania
 
-## Project Overview
+### Areas Covered
 
-Installation of solar-powered LED street lighting systems.
+- Moshi
+- Bomang'ombe
+- Mwanga
+- Same
+- Himo
+- Tarakea
+- Hedaru
+- Marangu
+- Mgagao
+- Useri
+- Mwika
+- Himo JCT
+- KIA JCT (Kwa msomali)
 
-## Scope of Work
+---
 
+## 📖 Project Overview
+
+This project involved the installation of solar-powered LED street lighting systems across multiple districts in the Kilimanjaro Region.
+
+The objective was to improve road safety, public security and energy efficiency using renewable solar energy.
+
+---
+
+## 🔧 Scope of Work
+
+- Site survey
 - Pole installation
-- Solar panel mounting
+- Foundation inspection
+- Solar panel installation
 - Battery installation
 - LED luminaire installation
 - Controller configuration
-- Testing and commissioning
+- Cable connections
+- System testing
+- Commissioning
 
-## Skills Applied
+---
 
-- Solar Installation
-- Electrical Wiring
-- Testing
-- Troubleshooting
+## 🛠 Technologies Used
 
-## Status
+- Solar PV Panels
+- LiFePO4 Batteries
+- MPPT Charge Controllers
+- LED Street Lights
+- Galvanized Steel Poles
+
+---
+
+## 👨‍💻 My Responsibilities
+
+- Installation support
+- Electrical connections
+- System testing
+- Fault diagnosis
+- Commissioning support
+- Maintenance support
+
+---
+
+## 🎯 Skills Demonstrated
+
+- Solar PV Installation
+- Electrical Installation
+- Street Lighting Systems
+- Technical Troubleshooting
+- Team Collaboration
+- Site Safety
+
+---
+
+## 📷 Project Gallery
+
+Project images will be added soon.
+
+---
+
+## 📌 Status
 
 ✅ Completed
 
 ---
 
-ADU Tech Solutions
+### ADU Tech Solutions
 
-Smart Technology. Reliable Solutions.
+**Smart Technology. Reliable Solutions.**
